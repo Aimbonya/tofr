@@ -2,7 +2,7 @@
   "name": "TOFr Token",
   "symbol": "TOFR",
   "description": "Custom SPL token for Solana devnet lab work",
-  "image": "https://raw.githubusercontent.com/tankte-mamd/solana-lab/main/token.png",
+  "image": "https://raw.githubusercontent.com/Aimbonya/tofr/ae721d83f5a5a3406d4a62ff1145d3857995fa2f/PICT0040%20(2).jpg",
   "attributes": [
     {
       "trait_type": "Category",
@@ -12,8 +12,8 @@
   "properties": {
     "files": [
       {
-        "uri": "token.png",
-        "type": "image/png"
+        "uri": "PICT0040 (2).jpg",
+        "type": "image/jpeg"
       }
     ]
   }
